@@ -7,5 +7,5 @@ So, you import TextEdit for Linux with
         pip3 TextEdit  
 And, for Windows you import with 
 .. code-block:: bash
-py -m pip install TextEdit  
+        py -m pip install TextEdit  
 There are just two new fonction : defileInput ans defileInputSound. 
