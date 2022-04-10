@@ -30,6 +30,6 @@ You can put as many arguments as you want.
 
 Copyright
 -----------
-This software is Copyright © 2022 Corentin Perdry <corentin.perdry@gmail.com
+This software is Copyright © 2022 Corentin Perdry <corentin.perdry@gmail.com>
 
 See the bundled LICENSE file for more information.
