@@ -21,8 +21,8 @@ Importation and use
 ===================
 Once you've installed, you can really quickly verified that it works with just this:
 .. code-block:: python
-        import TextEdit
-        TextEdit.defile ("Hello world")
+        >>> import TextEdit
+        >>> TextEdit.defile ("Hello world")
 
 The TextEdit module contain for the moment 4 fonction : defile ; defileInput ; defileSound ; defileInputSound.
 It does nor requires argument.
