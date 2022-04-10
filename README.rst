@@ -8,7 +8,7 @@ There are just two new fonction : defileInput ans defileInputSound.
 
 Installation
 ------------
-For windows, you must install the folder TextEdit in C:\Users\your_account\AppData\Local\python\python-version\Lib\  
+For windows, you must install the folder TextEdit in C:\Users\your_account\AppData\Local\python\python-version\Lib\
 For Linux, you must install the folder TextEdit in /usr/local/lib/python/dist-packages/  
 So, you import TextEdit for Linux with  
 .. code-block:: bash  
