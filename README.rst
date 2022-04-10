@@ -16,6 +16,13 @@ So, you import TextEdit for Linux with
 And, for Windows you import with 
 .. code-block:: bash
         py -m pip install TextEdit
+You must have pygame for use the fonction defileSound and defileInputSound.
+You can install it with this commend for Linux :
+.. code-block:: bash
+        pip3 install pygame
+And, for Windows :
+.. code-block:: bash
+        py -m pip install pygame
 
 Importation and use
 ===================
@@ -25,8 +32,11 @@ Once you've installed, you can really quickly verified that it works with just t
         >>> TextEdit.defile ("Hello world")
 
 The TextEdit module contain for the moment 4 fonction : defile ; defileInput ; defileSound ; defileInputSound.
-It does nor requires argument.
+It does not requires argument.
 You can put as many arguments as you want.
+example :
+.. code-block:: python
+        TextEdit.defile ("Hello world",a,"Goodbye world")
 
 Copyright
 -----------
