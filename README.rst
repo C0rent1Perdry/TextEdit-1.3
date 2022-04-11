@@ -55,6 +55,6 @@ example :
         
 Copyright
 -----------
-This software is Copyright © 2022 Corentin Perdry <corentin.perdry@gmail.com>  
+This software is Copyright © 2022 Corentin Perdry corentin.perdry@gmail.com  
 
 See the bundled LICENSE file for more information.
