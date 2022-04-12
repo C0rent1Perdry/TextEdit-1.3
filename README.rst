@@ -14,26 +14,26 @@ So, you import TextEdit for Linux with
 
 .. code-block:: bash
         
-        pip3 TextEdit  
+        $ pip3 TextEdit  
         
 And, for Windows you import with
 
 .. code-block:: bash  
         
-        py -m pip install TextEdit
+        $ py -m pip install TextEdit
         
 You must have pygame for use the fonction defileSound and defileInputSound.  
 You can install it with this commend for Linux :  
 
 .. code-block:: bash
         
-        pip3 install pygame
+        $ pip3 install pygame
         
 And, for Windows :
 
 .. code-block:: bash
         
-        py -m pip install pygame
+        $ py -m pip install pygame
         
 Importation and use
 ===================
